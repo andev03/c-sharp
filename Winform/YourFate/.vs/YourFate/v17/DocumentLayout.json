@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E0F82B-2A49-445F-9C8F-556D30BE6602}|Zodiac\\Zodiac.csproj|s:\\programming language\\c#\\practice\\winform\\yourfate\\zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E0F82B-2A49-445F-9C8F-556D30BE6602}|Zodiac\\Zodiac.csproj|solutionrelative:zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E0F82B-2A49-445F-9C8F-556D30BE6602}|Zodiac\\Zodiac.csproj|S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E0F82B-2A49-445F-9C8F-556D30BE6602}|Zodiac\\Zodiac.csproj|solutionrelative:zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E0F82B-2A49-445F-9C8F-556D30BE6602}|Zodiac\\Zodiac.csproj|S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\zodiac\\zodiacmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E0F82B-2A49-445F-9C8F-556D30BE6602}|Zodiac\\Zodiac.csproj|solutionrelative:zodiac\\zodiacmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E0F82B-2A49-445F-9C8F-556D30BE6602}|Zodiac\\Zodiac.csproj|S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\zodiac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E0F82B-2A49-445F-9C8F-556D30BE6602}|Zodiac\\Zodiac.csproj|solutionrelative:zodiac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZodiacManager.cs [Design]",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\Zodiac\\ZodiacManager.cs",
+              "RelativeDocumentMoniker": "Zodiac\\ZodiacManager.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\Zodiac\\ZodiacManager.cs [Design]",
+              "RelativeToolTip": "Zodiac\\ZodiacManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:51:54.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZodiacManager.Designer.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\Zodiac\\ZodiacManager.Designer.cs",
+              "RelativeDocumentMoniker": "Zodiac\\ZodiacManager.Designer.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\Zodiac\\ZodiacManager.Designer.cs",
+              "RelativeToolTip": "Zodiac\\ZodiacManager.Designer.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAIAwwJYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:51:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZodiacManager.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\Zodiac\\ZodiacManager.cs",
+              "RelativeDocumentMoniker": "Zodiac\\ZodiacManager.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\Zodiac\\ZodiacManager.cs",
+              "RelativeToolTip": "Zodiac\\ZodiacManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA7wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:41:46.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\Zodiac\\Program.cs",
+              "RelativeDocumentMoniker": "Zodiac\\Program.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\Zodiac\\Program.cs",
+              "RelativeToolTip": "Zodiac\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:40:29.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

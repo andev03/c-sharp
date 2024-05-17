@@ -1,0 +1,17 @@
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\bin\Debug\net8.0-windows\Zodiac.exe
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\bin\Debug\net8.0-windows\Zodiac.deps.json
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\bin\Debug\net8.0-windows\Zodiac.runtimeconfig.json
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\bin\Debug\net8.0-windows\Zodiac.dll
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\bin\Debug\net8.0-windows\Zodiac.pdb
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.ZodiacManager.resources
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.csproj.GenerateResource.cache
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.AssemblyInfoInputs.cache
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.AssemblyInfo.cs
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.csproj.CoreCompileInputs.cache
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.dll
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\refint\Zodiac.dll
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.pdb
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.genruntimeconfig.cache
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\ref\Zodiac.dll
+S:\Programming Language\C#\Practice\Winform\YourFate\Zodiac\obj\Debug\net8.0-windows\Zodiac.Properties.Resources.resources

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|s:\\programming language\\c#\\practice\\asp_dotnet_core\\01.getting-started\\myfirstapp\\myfirstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|s:\\programming language\\c#\\practice\\asp_dotnet_core\\01.getting-started\\myfirstapp\\myfirstapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|s:\\programming language\\c#\\practice\\asp_dotnet_core\\01.getting-started\\myfirstapp\\myfirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|s:\\programming language\\c#\\practice\\asp_dotnet_core\\01.getting-started\\myfirstapp\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|s:\\programming language\\c#\\practice\\asp_dotnet_core\\01.getting-started\\myfirstapp\\myfirstapp\\myfirstapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7933D4F5-2F0F-428F-99F3-C2956CF9958A}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\myfirstapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyFirstApp\\Properties\\launchSettings.json",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyFirstApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T14:51:05.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyFirstApp\\appsettings.Development.json",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\appsettings.Development.json",
+              "RelativeToolTip": "MyFirstApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T14:50:57.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFirstApp\\appsettings.json",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\appsettings.json",
+              "RelativeToolTip": "MyFirstApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T14:50:47.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Program.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\Program.cs",
+              "RelativeToolTip": "MyFirstApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:23:20.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyFirstApp",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+              "RelativeDocumentMoniker": "MyFirstApp\\MyFirstApp.csproj",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\01.getting-started\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+              "RelativeToolTip": "MyFirstApp\\MyFirstApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T14:21:48.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
