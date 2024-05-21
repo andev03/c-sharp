@@ -23,3 +23,4 @@ S:\Programming Language\C#\Practice\ASP_dotNet_Core\01.getting-started\MyFirstAp
 S:\Programming Language\C#\Practice\ASP_dotNet_Core\01.getting-started\MyFirstApp\MyFirstApp\obj\Debug\net8.0\MyFirstApp.pdb
 S:\Programming Language\C#\Practice\ASP_dotNet_Core\01.getting-started\MyFirstApp\MyFirstApp\obj\Debug\net8.0\MyFirstApp.genruntimeconfig.cache
 S:\Programming Language\C#\Practice\ASP_dotNet_Core\01.getting-started\MyFirstApp\MyFirstApp\obj\Debug\net8.0\ref\MyFirstApp.dll
+S:\Programming Language\C#\Practice\ASP_dotNet_Core\01.getting-started\MyFirstApp\MyFirstApp\obj\Debug\net8.0\MyFirstApp.sourcelink.json
