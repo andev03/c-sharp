@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A242B384-03B2-4F2A-B847-131B95FA0A20}|MiddlewareExample\\MiddlewareExample.csproj|s:\\programming language\\c#\\practice\\asp_dotnet_core\\03.middleware\\middlewareexample\\middlewareexample\\custommiddleware\\hellomycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A242B384-03B2-4F2A-B847-131B95FA0A20}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\custommiddleware\\hellomycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A242B384-03B2-4F2A-B847-131B95FA0A20}|MiddlewareExample\\MiddlewareExample.csproj|s:\\programming language\\c#\\practice\\asp_dotnet_core\\03.middleware\\middlewareexample\\middlewareexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A242B384-03B2-4F2A-B847-131B95FA0A20}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A242B384-03B2-4F2A-B847-131B95FA0A20}|MiddlewareExample\\MiddlewareExample.csproj|S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\middlewareexample\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A242B384-03B2-4F2A-B847-131B95FA0A20}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A242B384-03B2-4F2A-B847-131B95FA0A20}|MiddlewareExample\\MiddlewareExample.csproj|s:\\programming language\\c#\\practice\\asp_dotnet_core\\03.middleware\\middlewareexample\\middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A242B384-03B2-4F2A-B847-131B95FA0A20}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloMyCustomMiddleware.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\HelloMyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\CustomMiddleware\\HelloMyCustomMiddleware.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\HelloMyCustomMiddleware.cs",
+              "RelativeToolTip": "MiddlewareExample\\CustomMiddleware\\HelloMyCustomMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:48:03.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\MiddlewareExample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MiddlewareExample\\Properties\\launchSettings.json",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\MiddlewareExample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MiddlewareExample\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T06:43:18.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "MiddlewareExample\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:11:38.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\MiddlewareExample\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\Program.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\MiddlewareExample\\MiddlewareExample\\Program.cs",
+              "RelativeToolTip": "MiddlewareExample\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:16:33.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

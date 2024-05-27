@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\",
+  "WorkspaceRootPath": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|s:\\programming language\\c#\\practice\\winform\\yourfate\\bookmanagement\\bookmanagement\\bookmanagermainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|s:\\programming language\\c#\\practice\\winform\\bookmanagement\\bookmanagement\\bookmanagermainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanagermainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42FAACE6-012E-4883-A383-CEE3226B7510}|Services\\Services.csproj|s:\\programming language\\c#\\practice\\winform\\yourfate\\bookmanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42FAACE6-012E-4883-A383-CEE3226B7510}|Services\\Services.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\bookmanagement\\bookmanagermainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanagermainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|s:\\programming language\\c#\\practice\\winform\\yourfate\\bookmanagement\\bookmanagement\\bookmanagermainui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\bookmanagement\\bookmanagermainui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanagermainui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\bookmanagement\\bookmanagermainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73117870-8231-43C3-A1EB-865C1FAB7665}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanagermainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42FAACE6-012E-4883-A383-CEE3226B7510}|Services\\Services.csproj|S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FAACE6-012E-4883-A383-CEE3226B7510}|Services\\Services.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +32,22 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BookManagerMainUI.Designer.cs",
-              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\BookManagement\\BookManagerMainUI.Designer.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\BookManagement\\BookManagerMainUI.Designer.cs",
               "RelativeDocumentMoniker": "BookManagement\\BookManagerMainUI.Designer.cs",
-              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\BookManagement\\BookManagerMainUI.Designer.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\BookManagement\\BookManagerMainUI.Designer.cs",
               "RelativeToolTip": "BookManagement\\BookManagerMainUI.Designer.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEoAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T03:08:43.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BookService.cs",
-              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\Services\\BookService.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Services\\BookService.cs",
-              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\Services\\BookService.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\Services\\BookService.cs",
               "RelativeToolTip": "Services\\BookService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BookManagerMainUI.cs [Design]",
-              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\BookManagement\\BookManagerMainUI.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\BookManagement\\BookManagerMainUI.cs",
               "RelativeDocumentMoniker": "BookManagement\\BookManagerMainUI.cs",
-              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\BookManagement\\BookManagerMainUI.cs [Design]",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\BookManagement\\BookManagerMainUI.cs [Design]",
               "RelativeToolTip": "BookManagement\\BookManagerMainUI.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T03:05:16.26Z",
@@ -68,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BookManagerMainUI.cs",
-              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\BookManagement\\BookManagerMainUI.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\BookManagement\\BookManagerMainUI.cs",
               "RelativeDocumentMoniker": "BookManagement\\BookManagerMainUI.cs",
-              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\BookManagement\\BookManagerMainUI.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\BookManagement\\BookManagerMainUI.cs",
               "RelativeToolTip": "BookManagement\\BookManagerMainUI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T02:57:31.587Z",
               "EditorCaption": ""

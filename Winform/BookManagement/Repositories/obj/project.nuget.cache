@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hZ+c+B8PaTEUkGPfUUp5C6xuoePy4wHEhSw7L28fiXBZvHzc7Xp+bNmx66hd/CBBGV2yE0MxaxWH6YOkrExY2w==",
+  "dgSpecHash": "61Vzk5K9UHPbMOLtx4n42fLelTakAKn03svoBtkY9OAK8hIj8LP9bnORKXnjJCBMbNZVdcRaeVB1y/iD/RLcAw==",
   "success": true,
-  "projectFilePath": "S:\\Programming Language\\C#\\Practice\\Winform\\YourFate\\BookManagement\\Repositories\\Repositories.csproj",
+  "projectFilePath": "S:\\Programming Language\\C#\\Practice\\Winform\\BookManagement\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

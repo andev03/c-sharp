@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\LoginUsingMiddleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{210328BF-7718-44F0-A7D7-C3C39D7B50D3}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|s:\\programming language\\c#\\practice\\asp_dotnet_core\\03.middleware\\loginusingmiddleware\\loginusingmiddleware\\custommiddleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210328BF-7718-44F0-A7D7-C3C39D7B50D3}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|solutionrelative:loginusingmiddleware\\custommiddleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210328BF-7718-44F0-A7D7-C3C39D7B50D3}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\LoginUsingMiddleware\\loginusingmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210328BF-7718-44F0-A7D7-C3C39D7B50D3}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|solutionrelative:loginusingmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\LoginUsingMiddleware\\LoginUsingMiddleware\\Program.cs",
+              "RelativeDocumentMoniker": "LoginUsingMiddleware\\Program.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\LoginUsingMiddleware\\LoginUsingMiddleware\\Program.cs",
+              "RelativeToolTip": "LoginUsingMiddleware\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:10:53.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginMiddleware.cs",
+              "DocumentMoniker": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\LoginUsingMiddleware\\LoginUsingMiddleware\\CustomMiddleware\\LoginMiddleware.cs",
+              "RelativeDocumentMoniker": "LoginUsingMiddleware\\CustomMiddleware\\LoginMiddleware.cs",
+              "ToolTip": "S:\\Programming Language\\C#\\Practice\\ASP_dotNet_Core\\03.middleware\\LoginUsingMiddleware\\LoginUsingMiddleware\\CustomMiddleware\\LoginMiddleware.cs",
+              "RelativeToolTip": "LoginUsingMiddleware\\CustomMiddleware\\LoginMiddleware.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:10:16.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

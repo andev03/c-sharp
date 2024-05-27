@@ -1,3 +1,5 @@
+using Microsoft.Extensions.Primitives;
+
 namespace MyFirstApp
 {
     public class Program
@@ -8,16 +10,15 @@ namespace MyFirstApp
             var app = builder.Build();
 
             app.Run(async (HttpContext context) => {
-                if(1 == 1)
-                {
-                    context.Response.StatusCode = 200;
-                } else
-                {
-                    context.Response.StatusCode = 400;
-                }
-                await context.Response.WriteAsync("Hello");
-                await context.Response.WriteAsync("World");
+                System.IO.StreamReader reader = new StreamReader(context.Request.Body);
+                String body = await reader.ReadToEndAsync();
 
+                Dictionary<string, StringValues> queryDict = Microsoft.AspNetCore.WebUtilities.QueryHelpers.ParseQuery(body);
+                if (queryDict.ContainsKey("firstName")) {
+                    string firstName = queryDict["firstName"][10];
+                    await context.Response.WriteAsync(firstName);
+                }
+              
             });
 
             app.Run();
