@@ -1,0 +1,15 @@
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\bin\Debug\net8.0\OOP.exe
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\bin\Debug\net8.0\OOP.dll
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\OOP.sourcelink.json
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\OOP.dll
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+S:\Programming_Language\C#\Practice\Begin\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll

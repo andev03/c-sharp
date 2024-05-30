@@ -1,0 +1,49 @@
+* Tool
+	- Postman ( Web tool                            & Desktop app)
+		    API cần đưa lên web                   test API ở local
+
+	- Ngrok - biến localhost của máy thành https://...
+	- gitignore: end-point để lấy data và dữ liệu trả về gọi là tài nguyên.
+===============================================================================
+* Nhập môn Web API
+
+	- Người dùng bình thường --- browser --- gõ URL --- xem được 1 trang web - Đẹp
+	  WeWebsi/Web app dành cho end-user, người dùng bình thường trải nghiệm.
+
+	- Trong website này, có thông tin: Thời tiết các thành phố VN + TG
+	- Trong website này, có thông tin: giá vàng VN, TG, giá ngoại tệ.
+
+	- Giá vàng, thông tin thời tiết được lấy từ 1 nơi khác, nơi họ chuyên về mảng
+	  info này: thời tiết lấy từ bên Khí tượng thủy văn, giá vàng, ngoại tệ lấy từ bên
+		    ngân Hàng.
+	- Chia sẻ info vàng, khí tượng theo 2 cách:
+		+ Tòa báo gọi điện xin info qua mail, Excel, tự cập nhật info = tay vào 
+		  trang báo, module Admin -> cực kì thủ công trong thời đại 4.0
+		
+		+ Bên khí tượng, ngân hàng có API (url đặc biệt) đưa ra data thô JSON cho bên tòa 
+		  báo. Tòa báo cần giá vàng, thời tiết, gọi URL đặc biệt này và viết đoạn code trong
+		  Web về trang báo, rã thông tin trong JSON ra, hiển thị đẹp cho USER thường 
+		  dùng.
+	
+	-> WEB API LÀ 1 URL ĐẶC BIỆT CHỨA DATA THÔ (JSON) CHƯA ĐỊNH DẠNG ĐẸP
+	   DÂN DEV XÀI API NÀY TRONG CODE ĐỂ RENDER DATA ĐẸP.
+	
+	- Người dùng xài trang web
+	- Dân dev xài API, nhúng API trong code của mình để render data cho người dùng
+
+	- ĐỂ LÀM 1 API TA CẦN
+		+ 1 WEB SERVER ĐỂ NÓ HANDLE ĐƯỢC CÁC URL ĐẶC BIỆT NÀY.
+		  	- Nhận request từ app khác, từ dev, response về JSON -> Xài Tomcat
+		+ VIẾT CODE ĐẶT TRÊN WEB SERVER ĐỂ NHẬN REQUEST VÀ TRẢ VỀ REPONSE JSON.
+			- Java WebApp nhưng k trả về trang Web đẹp, mà chỉ trả về JSON
+		+ CẦN CÓ QUY ƯỚC VỀ CÁI URL ĐẶC BIỆT NÀY
+		  	- Với User thường url dạng như sau:
+				https://tên-miền/ vào web app đẹp bthg.
+			- Với API, thường url dạng như sau (xài ké tên miền web app):
+				https://tên-miền/api/.... -> từ JSON trả về.
+	   		        dữ liệu trả về gọi là RESOURCE
+				URL gọi là: END-POINT - điểm chạm để có tài nguyên.
+
+46:42
+		  	
+	

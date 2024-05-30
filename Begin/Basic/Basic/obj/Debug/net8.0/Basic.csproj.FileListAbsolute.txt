@@ -1,0 +1,15 @@
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\bin\Debug\net8.0\Basic.exe
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\bin\Debug\net8.0\Basic.deps.json
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\bin\Debug\net8.0\Basic.runtimeconfig.json
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\bin\Debug\net8.0\Basic.dll
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\bin\Debug\net8.0\Basic.pdb
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\Basic.AssemblyInfoInputs.cache
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\Basic.AssemblyInfo.cs
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\Basic.csproj.CoreCompileInputs.cache
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\Basic.sourcelink.json
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\Basic.dll
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\refint\Basic.dll
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\Basic.pdb
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\Basic.genruntimeconfig.cache
+S:\Programming_Language\C#\Practice\Begin\Basic\Basic\obj\Debug\net8.0\ref\Basic.dll
