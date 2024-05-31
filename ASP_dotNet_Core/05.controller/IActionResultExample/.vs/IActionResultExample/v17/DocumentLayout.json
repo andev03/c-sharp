@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\iactionresultexample\\iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\iactionresultexample\\iactionresultexample\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\iactionresultexample\\iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\iactionresultexample\\iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\IActionResultExample\\controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\controllers\\StoreController.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\IActionResultExample\\controllers\\StoreController.cs",
+              "RelativeToolTip": "IActionResultExample\\controllers\\StoreController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:05:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\IActionResultExample\\controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\controllers\\StatusController.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\IActionResultExample\\controllers\\StatusController.cs",
+              "RelativeToolTip": "IActionResultExample\\controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:58:47.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\IActionResultExample\\controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\controllers\\HomeController.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\IActionResultExample\\controllers\\HomeController.cs",
+              "RelativeToolTip": "IActionResultExample\\controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:28:50.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\IActionResultExample\\Program.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Program.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\IActionResultExample\\Program.cs",
+              "RelativeToolTip": "IActionResultExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:27:03.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

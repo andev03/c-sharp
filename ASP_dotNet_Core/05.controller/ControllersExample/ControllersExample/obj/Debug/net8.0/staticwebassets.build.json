@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "NzAqvZZ6LScxIBtb19VQehRZkhryuOrsGRZa+rgmcb4=",
+  "Source": "ControllersExample",
+  "BasePath": "_content/ControllersExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllersExample\\wwwroot",
+      "Source": "ControllersExample",
+      "ContentRoot": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\wwwroot\\",
+      "BasePath": "_content/ControllersExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\wwwroot\\HibernateNote.txt",
+      "SourceId": "ControllersExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\wwwroot\\",
+      "BasePath": "_content/ControllersExample",
+      "RelativePath": "HibernateNote.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HibernateNote.txt"
+    }
+  ]
+}

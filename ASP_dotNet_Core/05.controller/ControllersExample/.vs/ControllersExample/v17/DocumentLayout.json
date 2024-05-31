@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\controllersexample\\controllersexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\controllersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\controllersexample\\controllersexample\\controllersexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\controllersexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\controllersexample\\controllersexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControllersExample",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\ControllersExample.csproj",
+              "RelativeDocumentMoniker": "ControllersExample\\ControllersExample.csproj",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\ControllersExample.csproj",
+              "RelativeToolTip": "ControllersExample\\ControllersExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T06:02:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\models\\Person.cs",
+              "RelativeDocumentMoniker": "ControllersExample\\models\\Person.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\models\\Person.cs",
+              "RelativeToolTip": "ControllersExample\\models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:54:20.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\Program.cs",
+              "RelativeDocumentMoniker": "ControllersExample\\Program.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\Program.cs",
+              "RelativeToolTip": "ControllersExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:20:13.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllersExample\\controllers\\HomeController.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\ControllersExample\\controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllersExample\\controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:14:16.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

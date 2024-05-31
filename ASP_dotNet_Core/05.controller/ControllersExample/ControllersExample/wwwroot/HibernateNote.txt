@@ -1,0 +1,64 @@
+* Tạo dự án đơn giản và cấu hình
+	- Bước 1: Chuẩn bị cơ sở dữ liệu.
+	- Bước 2: Tạo dự án Maven + Thêm các thư viện (MySQL Connector Java, Hibernate Core Relocation,  Hibernate EntityManager Relocation)
+	- Bước 3: Tạo Entity
+		+ Lưu ý: Anotation
+		   1. @Entity: Để khai báo 1 đối tượng được ánh xạ xuống cơ sở dữ liệu.
+		   2. @Table: Để khai báo các thuộc tính của 1 bảng (name, conainsins).
+		   3. @Inheritance: Để khai báo cho superclass dùng trong lưu các đối
+		      tượng có quan hệ kế thừa.
+		   4. @Id: Để khai báo một thuộc tính sẽ là khóa chính trong bảng.
+		   5. @Column: Để khai báo một thuộc tính liên quan cho một cột trong bảng.
+		   6. @Transient: Để Quy định cho HA không lưu thuộc tính này xuống cơ sở dữ liệu.
+		   7. @JoinColumn: Để khai báo một thuộc tính sẽ là khóa ngoại.
+		   8. @OneToMany: Để khai bao quan hệ one to many.
+		   9. @ManyToOne: Dùng để khai báo trong quan hệ many to one.
+		   10.@ManyToMany: Dùng để khai báo trong quan hệ Many to Many.
+		   11.@GeneratedValue: Khóa tự tăng
+	!!!!!!!! Còn nhiều ANOTATION khác.
+	
+	- Bước 4: Tạo file cấu hình (hibernate.cfg.xml)
+	- Bước 5: Tạo file HibernateUtil
+====================================================================================================================================================
+* Các câu lệnh trong Hibernate.
+	- save() và saveOrUpdate: 
+		+ save() là chỉ thêm 1 đối tượng chưa tồn tại
+		+ saveOrUpadte() là kiểm tra xem đối tượng đã tồn tại hay chưa,
+		   nếu chưa thì thêm mới còn nếu rồi thì cập nhật.
+		+ ở phiên bản mới nên dùng persist() và merge() để thay thế.
+====================================================================================================================================================
+* Phân biệt Transient, Persitent, Detached trong Hibernate 
+	- Một số phương thức thường sử dụng:
+		+ save()
+		+ persis()
+		+ saveOrUpdate()
+		+ update()
+		+ merge()
+		+ get()
+		+ load()
+		+ find()
+		+ remove()
+		+ delete()
+====================================================================================================================================================
+* Kế thừa
+	- Có 3 cách mapping là: 
+		+ Map tất cả dữ liệu xuống duy nhất một table
+		+ Map riêng lớp cha và các lớp con, khi đó trong table của lớp con sẽ chứa
+		  khóa của lớp cha
+		+ Không map dữ liệu trong lớp cha mà đưa thẳng dữ liệu trong lớp cha về
+		  các lớp con. Khi đó có bao nhiêu lớp con sẽ có bấy nhiêu table.
+	- Lớp cha được khai báo @Inheritance + khai báo cách map:
+		+ @Inheritance(strategy = InheritancType.SINGLE_TABLE)
+		+ @Inheritance(strategy = InheritanceType.JOINED)
+		+ @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
+====================================================================================================================================================
+* Các loại Cascade:
+	- CascadeType.ALL: 
+	- CascadeType.DETACH:
+	- CascadeType.MERGE:
+	- CascadeType.TeadeTy:
+	- CasecadeType.REFRESH:
+	- CascadeType.REMOVE:	
+===================================================================================================================================================
+* LAZY và EAGER FETCHTYPE:
+	* Ưu điểm: 	
