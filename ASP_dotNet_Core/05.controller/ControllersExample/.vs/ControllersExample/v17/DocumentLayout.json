@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\controllersexample\\controllersexample\\controllersexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\controllersexample\\controllersexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\controllersexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\controllersexample\\controllersexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\ControllersExample\\controllersexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2149F65F-7294-4D06-BF63-8DB20D99DB3F}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "ControllersExample\\ControllersExample.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-31T06:02:19.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T06:02:19.561Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "ControllersExample\\models\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T05:54:20.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T05:54:20.724Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "ControllersExample\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T02:20:13.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T02:20:13.658Z"
             },
             {
               "$type": "Document",

@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\iactionresultexample\\iactionresultexample\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\iactionresultexample\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\iactionresultexample\\iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\05.controller\\iactionresultexample\\iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F20879-0AA6-4712-88A8-8CCDBB99530C}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "IActionResultExample\\controllers\\StoreController.cs",
               "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\05.controller\\IActionResultExample\\IActionResultExample\\controllers\\StoreController.cs",
               "RelativeToolTip": "IActionResultExample\\controllers\\StoreController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAswA8AAAABAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA9wA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T07:05:57.33Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "IActionResultExample\\controllers\\StatusController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T06:58:47.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T06:58:47.975Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "IActionResultExample\\controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T06:28:50.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T06:28:50.808Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "IActionResultExample\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T06:27:03.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T06:27:03.809Z"
             }
           ]
         }
