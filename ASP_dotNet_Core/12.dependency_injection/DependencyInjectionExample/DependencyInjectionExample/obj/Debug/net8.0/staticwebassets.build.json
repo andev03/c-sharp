@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Kr6mX0vejfvQ5Rzfff8DlXPEw5bhe5oCzjp5FHSL++M=",
+  "Source": "DependencyInjectionExample",
+  "BasePath": "_content/DependencyInjectionExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DependencyInjectionExample\\wwwroot",
+      "Source": "DependencyInjectionExample",
+      "ContentRoot": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\wwwroot\\",
+      "BasePath": "_content/DependencyInjectionExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

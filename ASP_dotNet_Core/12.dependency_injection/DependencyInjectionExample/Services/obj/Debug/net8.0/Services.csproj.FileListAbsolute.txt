@@ -1,0 +1,12 @@
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\bin\Debug\net8.0\Services.deps.json
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\bin\Debug\net8.0\Services.dll
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\bin\Debug\net8.0\Services.pdb
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\obj\Debug\net8.0\Services.sourcelink.json
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\obj\Debug\net8.0\Services.dll
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\obj\Debug\net8.0\refint\Services.dll
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\obj\Debug\net8.0\Services.pdb
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\Services\obj\Debug\net8.0\ref\Services.dll
