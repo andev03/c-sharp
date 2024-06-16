@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|s:\\programming_language\\c#\\practice\\asp_dotnet_core\\12.dependency_injection\\dependencyinjectionexample\\dependencyinjectionexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58A3FD3-AD0B-4A0D-8E72-E2CA9CD6A13A}|Services\\Services.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58A3FD3-AD0B-4A0D-8E72-E2CA9CD6A13A}|Services\\Services.csproj|solutionrelative:services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2671AED-622E-4EA6-9A86-B2C8B57C7EB6}|ServiceContracts\\ServiceContracts.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2671AED-622E-4EA6-9A86-B2C8B57C7EB6}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\dependencyinjectionexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\dependencyinjectionexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\dependencyinjectionexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\dependencyinjectionexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\dependencyinjectionexample\\dependencyinjectionexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38D44330-5EB5-43BF-A48D-FC88D2775DF6}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\dependencyinjectionexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICitiesService.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\ServiceContracts\\ICitiesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICitiesService.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\ServiceContracts\\ICitiesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICitiesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T04:26:14.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DependencyInjectionExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T03:50:51.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DependencyInjectionExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T03:43:21.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Controllers\\HomeController.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:40:15.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitiesService.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\Services\\CitiesService.cs",
+              "RelativeDocumentMoniker": "Services\\CitiesService.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\Services\\CitiesService.cs",
+              "RelativeToolTip": "Services\\CitiesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:35:34.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DependencyInjectionExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T03:41:57.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Program.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:32:50.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DependencyInjectionExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T03:55:39.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjectionExample",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\DependencyInjectionExample.csproj",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\DependencyInjectionExample.csproj",
+              "ToolTip": "S:\\Programming_Language\\C#\\Practice\\ASP_dotNet_Core\\12.dependency_injection\\DependencyInjectionExample\\DependencyInjectionExample\\DependencyInjectionExample.csproj",
+              "RelativeToolTip": "DependencyInjectionExample\\DependencyInjectionExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T04:06:01.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

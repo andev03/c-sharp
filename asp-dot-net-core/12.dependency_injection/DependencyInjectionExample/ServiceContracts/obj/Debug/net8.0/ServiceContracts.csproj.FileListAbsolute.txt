@@ -1,0 +1,12 @@
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+S:\Programming_Language\C#\Practice\ASP_dotNet_Core\12.dependency_injection\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
