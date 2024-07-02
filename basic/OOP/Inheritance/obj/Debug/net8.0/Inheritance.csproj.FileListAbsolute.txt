@@ -1,0 +1,14 @@
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+S:\University\Semester_5\PRN211\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

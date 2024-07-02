@@ -1,0 +1,15 @@
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\bin\Debug\net8.0\TodoList.exe
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\bin\Debug\net8.0\TodoList.deps.json
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\bin\Debug\net8.0\TodoList.runtimeconfig.json
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\bin\Debug\net8.0\TodoList.dll
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\bin\Debug\net8.0\TodoList.pdb
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfoInputs.cache
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfo.cs
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\TodoList.csproj.CoreCompileInputs.cache
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\TodoList.sourcelink.json
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\TodoList.dll
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\refint\TodoList.dll
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\TodoList.pdb
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\TodoList.genruntimeconfig.cache
+S:\Programming_Language\C#\practice\dot-net-core\TodoList\TodoList\obj\Debug\net8.0\ref\TodoList.dll

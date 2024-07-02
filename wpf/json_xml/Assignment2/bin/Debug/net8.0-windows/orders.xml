@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderId>1</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Order for various items</Description>
+    <TotalPrice>150</TotalPrice>
+    <Note>Delivered on time</Note>
+    <UserHaveStatus>true</UserHaveStatus>
+    <UserWantStatus>false</UserWantStatus>
+  </Order>
+  <Order>
+    <OrderId>2</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Exchange order</Description>
+    <TotalPrice>200</TotalPrice>
+    <Note>Smooth transaction</Note>
+    <UserHaveStatus>true</UserHaveStatus>
+    <UserWantStatus>true</UserWantStatus>
+  </Order>
+  <Order>
+    <OrderId>3</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Order for electronics</Description>
+    <TotalPrice>300</TotalPrice>
+    <Note>Late delivery</Note>
+    <UserHaveStatus>false</UserHaveStatus>
+    <UserWantStatus>true</UserWantStatus>
+  </Order>
+  <Order>
+    <OrderId>4</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Order for furniture</Description>
+    <TotalPrice>100</TotalPrice>
+    <Note>Perfect condition</Note>
+    <UserHaveStatus>true</UserHaveStatus>
+    <UserWantStatus>false</UserWantStatus>
+  </Order>
+  <Order>
+    <OrderId>5</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Order for kitchen appliances</Description>
+    <TotalPrice>250</TotalPrice>
+    <Note>Issue with product</Note>
+    <UserHaveStatus>false</UserHaveStatus>
+    <UserWantStatus>false</UserWantStatus>
+  </Order>
+  <Order>
+    <OrderId>6</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Order for books</Description>
+    <TotalPrice>120</TotalPrice>
+    <Note>Books in good condition</Note>
+    <UserHaveStatus>true</UserHaveStatus>
+    <UserWantStatus>true</UserWantStatus>
+  </Order>
+  <Order>
+    <OrderId>7</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Order for sports equipment</Description>
+    <TotalPrice>400</TotalPrice>
+    <Note>Satisfactory</Note>
+    <UserHaveStatus>true</UserHaveStatus>
+    <UserWantStatus>false</UserWantStatus>
+  </Order>
+  <Order>
+    <OrderId>8</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Bulk order for office supplies</Description>
+    <TotalPrice>500</TotalPrice>
+    <Note>Everything as expected</Note>
+    <UserHaveStatus>true</UserHaveStatus>
+    <UserWantStatus>true</UserWantStatus>
+  </Order>
+  <Order>
+    <OrderId>9</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Order for musical instruments</Description>
+    <TotalPrice>600</TotalPrice>
+    <Note>One item missing</Note>
+    <UserHaveStatus>false</UserHaveStatus>
+    <UserWantStatus>true</UserWantStatus>
+  </Order>
+  <Order>
+    <OrderId>10</OrderId>
+    <OrderDate />
+    <CompleDate />
+    <TotalDiscount>0</TotalDiscount>
+    <TotalOrderQuatity>1</TotalOrderQuatity>
+    <Description>Order for home decor</Description>
+    <TotalPrice>180</TotalPrice>
+    <Note>Beautiful items</Note>
+    <UserHaveStatus>true</UserHaveStatus>
+    <UserWantStatus>false</UserWantStatus>
+  </Order>
+</ArrayOfOrder>

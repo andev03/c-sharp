@@ -1,0 +1,14 @@
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\bin\Debug\net8.0\IsAndAs.exe
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\bin\Debug\net8.0\IsAndAs.deps.json
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\bin\Debug\net8.0\IsAndAs.runtimeconfig.json
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\bin\Debug\net8.0\IsAndAs.dll
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\bin\Debug\net8.0\IsAndAs.pdb
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\obj\Debug\net8.0\IsAndAs.GeneratedMSBuildEditorConfig.editorconfig
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\obj\Debug\net8.0\IsAndAs.AssemblyInfoInputs.cache
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\obj\Debug\net8.0\IsAndAs.AssemblyInfo.cs
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\obj\Debug\net8.0\IsAndAs.csproj.CoreCompileInputs.cache
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\obj\Debug\net8.0\IsAndAs.dll
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\obj\Debug\net8.0\refint\IsAndAs.dll
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\obj\Debug\net8.0\IsAndAs.pdb
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\obj\Debug\net8.0\IsAndAs.genruntimeconfig.cache
+S:\University\Semester_5\PRN211\Inheritance\IsAndAs\obj\Debug\net8.0\ref\IsAndAs.dll

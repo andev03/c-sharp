@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Net1810_212_1_Exchange\\Source\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{531B7F71-63D2-4385-92FD-EF9C5B55BF45}|Assignment2\\Assignment2.csproj|c:\\net1810_212_1_exchange\\source\\assignment2\\assignment2\\show_json.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531B7F71-63D2-4385-92FD-EF9C5B55BF45}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\show_json.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Show_Json.xaml.cs",
+              "DocumentMoniker": "C:\\Net1810_212_1_Exchange\\Source\\Assignment2\\Assignment2\\Show_Json.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Show_Json.xaml.cs",
+              "ToolTip": "C:\\Net1810_212_1_Exchange\\Source\\Assignment2\\Assignment2\\Show_Json.xaml.cs",
+              "RelativeToolTip": "Assignment2\\Show_Json.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA/wEgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:01:06.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

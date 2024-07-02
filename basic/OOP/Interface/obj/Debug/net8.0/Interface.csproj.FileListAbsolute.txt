@@ -1,0 +1,14 @@
+S:\University\Semester_5\PRN211\Inheritance\Interface\bin\Debug\net8.0\Interface.exe
+S:\University\Semester_5\PRN211\Inheritance\Interface\bin\Debug\net8.0\Interface.deps.json
+S:\University\Semester_5\PRN211\Inheritance\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+S:\University\Semester_5\PRN211\Inheritance\Interface\bin\Debug\net8.0\Interface.dll
+S:\University\Semester_5\PRN211\Inheritance\Interface\bin\Debug\net8.0\Interface.pdb
+S:\University\Semester_5\PRN211\Inheritance\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+S:\University\Semester_5\PRN211\Inheritance\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+S:\University\Semester_5\PRN211\Inheritance\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+S:\University\Semester_5\PRN211\Inheritance\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+S:\University\Semester_5\PRN211\Inheritance\Interface\obj\Debug\net8.0\Interface.dll
+S:\University\Semester_5\PRN211\Inheritance\Interface\obj\Debug\net8.0\refint\Interface.dll
+S:\University\Semester_5\PRN211\Inheritance\Interface\obj\Debug\net8.0\Interface.pdb
+S:\University\Semester_5\PRN211\Inheritance\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+S:\University\Semester_5\PRN211\Inheritance\Interface\obj\Debug\net8.0\ref\Interface.dll

@@ -1,0 +1,15 @@
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.sourcelink.json
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+S:\Programming_Language\C#\practice\dot-net-core\DiceRollGame\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll

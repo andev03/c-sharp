@@ -1,0 +1,11 @@
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\bin\Debug\net8.0\Common.deps.json
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\bin\Debug\net8.0\Common.dll
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\bin\Debug\net8.0\Common.pdb
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\obj\Debug\net8.0\Common.dll
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\obj\Debug\net8.0\Common.pdb
+C:\Net1810_212_1_Exchange\Source\Assignment2\Common\obj\Debug\net8.0\ref\Common.dll

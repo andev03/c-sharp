@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\University\\Semester_5\\PRN211\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C94B29-114E-4856-BAD8-1BA3246A7701}|IsAndAs\\IsAndAs.csproj|s:\\university\\semester_5\\prn211\\inheritance\\isandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C94B29-114E-4856-BAD8-1BA3246A7701}|IsAndAs\\IsAndAs.csproj|solutionrelative:isandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C94B29-114E-4856-BAD8-1BA3246A7701}|IsAndAs\\IsAndAs.csproj|s:\\university\\semester_5\\prn211\\inheritance\\isandas\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C94B29-114E-4856-BAD8-1BA3246A7701}|IsAndAs\\IsAndAs.csproj|solutionrelative:isandas\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C94B29-114E-4856-BAD8-1BA3246A7701}|IsAndAs\\IsAndAs.csproj|s:\\university\\semester_5\\prn211\\inheritance\\isandas\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C94B29-114E-4856-BAD8-1BA3246A7701}|IsAndAs\\IsAndAs.csproj|solutionrelative:isandas\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8C05D3-1CF3-461F-9FB9-CDB2778F47C2}|Default\\Default.csproj|s:\\university\\semester_5\\prn211\\inheritance\\default\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8C05D3-1CF3-461F-9FB9-CDB2778F47C2}|Default\\Default.csproj|solutionrelative:default\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8C05D3-1CF3-461F-9FB9-CDB2778F47C2}|Default\\Default.csproj|s:\\university\\semester_5\\prn211\\inheritance\\default\\isample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8C05D3-1CF3-461F-9FB9-CDB2778F47C2}|Default\\Default.csproj|solutionrelative:default\\isample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8C05D3-1CF3-461F-9FB9-CDB2778F47C2}|Default\\Default.csproj|s:\\university\\semester_5\\prn211\\inheritance\\default\\mysample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8C05D3-1CF3-461F-9FB9-CDB2778F47C2}|Default\\Default.csproj|solutionrelative:default\\mysample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|s:\\university\\semester_5\\prn211\\inheritance\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|s:\\university\\semester_5\\prn211\\inheritance\\interface\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|solutionrelative:interface\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|s:\\university\\semester_5\\prn211\\inheritance\\interface\\isecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|solutionrelative:interface\\isecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|s:\\university\\semester_5\\prn211\\inheritance\\interface\\interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|solutionrelative:interface\\interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|s:\\university\\semester_5\\prn211\\inheritance\\interface\\ifirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4862B0-17BB-4677-9DB5-E867F6D4BD22}|Interface\\Interface.csproj|solutionrelative:interface\\ifirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFC6E30-8CE2-437C-BE24-174FA47E50C0}|Abstract\\Abstract.csproj|s:\\university\\semester_5\\prn211\\inheritance\\abstract\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFC6E30-8CE2-437C-BE24-174FA47E50C0}|Abstract\\Abstract.csproj|solutionrelative:abstract\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFC6E30-8CE2-437C-BE24-174FA47E50C0}|Abstract\\Abstract.csproj|s:\\university\\semester_5\\prn211\\inheritance\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFC6E30-8CE2-437C-BE24-174FA47E50C0}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFC6E30-8CE2-437C-BE24-174FA47E50C0}|Abstract\\Abstract.csproj|s:\\university\\semester_5\\prn211\\inheritance\\abstract\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFC6E30-8CE2-437C-BE24-174FA47E50C0}|Abstract\\Abstract.csproj|solutionrelative:abstract\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F75DF85-7DAA-44CB-9ED5-D1C3FA0CF2A3}|Inheritance\\Inheritance.csproj|s:\\university\\semester_5\\prn211\\inheritance\\inheritance\\inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F75DF85-7DAA-44CB-9ED5-D1C3FA0CF2A3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F75DF85-7DAA-44CB-9ED5-D1C3FA0CF2A3}|Inheritance\\Inheritance.csproj|s:\\university\\semester_5\\prn211\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F75DF85-7DAA-44CB-9ED5-D1C3FA0CF2A3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFC6E30-8CE2-437C-BE24-174FA47E50C0}|Abstract\\Abstract.csproj|s:\\university\\semester_5\\prn211\\inheritance\\abstract\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFC6E30-8CE2-437C-BE24-174FA47E50C0}|Abstract\\Abstract.csproj|solutionrelative:abstract\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F75DF85-7DAA-44CB-9ED5-D1C3FA0CF2A3}|Inheritance\\Inheritance.csproj|s:\\university\\semester_5\\prn211\\inheritance\\inheritance\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F75DF85-7DAA-44CB-9ED5-D1C3FA0CF2A3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F75DF85-7DAA-44CB-9ED5-D1C3FA0CF2A3}|Inheritance\\Inheritance.csproj|s:\\university\\semester_5\\prn211\\inheritance\\inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F75DF85-7DAA-44CB-9ED5-D1C3FA0CF2A3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\IsAndAs\\Rectangle.cs",
+              "RelativeDocumentMoniker": "IsAndAs\\Rectangle.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\IsAndAs\\Rectangle.cs",
+              "RelativeToolTip": "IsAndAs\\Rectangle.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:31:31.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalculate.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\IsAndAs\\ICalculate.cs",
+              "RelativeDocumentMoniker": "IsAndAs\\ICalculate.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\IsAndAs\\ICalculate.cs",
+              "RelativeToolTip": "IsAndAs\\ICalculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:31:10.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\IsAndAs\\Program.cs",
+              "RelativeDocumentMoniker": "IsAndAs\\Program.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\IsAndAs\\Program.cs",
+              "RelativeToolTip": "IsAndAs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:30:32.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySample.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Default\\MySample.cs",
+              "RelativeDocumentMoniker": "Default\\MySample.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Default\\MySample.cs",
+              "RelativeToolTip": "Default\\MySample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:26:35.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISample.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Default\\ISample.cs",
+              "RelativeDocumentMoniker": "Default\\ISample.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Default\\ISample.cs",
+              "RelativeToolTip": "Default\\ISample.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:25:25.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Default\\Program.cs",
+              "RelativeDocumentMoniker": "Default\\Program.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Default\\Program.cs",
+              "RelativeToolTip": "Default\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:25:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\MyClass.cs",
+              "RelativeDocumentMoniker": "Interface\\MyClass.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\MyClass.cs",
+              "RelativeToolTip": "Interface\\MyClass.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:22:35.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISecond.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\ISecond.cs",
+              "RelativeDocumentMoniker": "Interface\\ISecond.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\ISecond.cs",
+              "RelativeToolTip": "Interface\\ISecond.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:22:16.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Interface",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\Interface.csproj",
+              "RelativeDocumentMoniker": "Interface\\Interface.csproj",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\Interface.csproj",
+              "RelativeToolTip": "Interface\\Interface.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T03:22:02.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFirst.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\IFirst.cs",
+              "RelativeDocumentMoniker": "Interface\\IFirst.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\IFirst.cs",
+              "RelativeToolTip": "Interface\\IFirst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:21:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:21:30.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\\Program.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Abstract\\Program.cs",
+              "RelativeToolTip": "Abstract\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:14:36.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Abstract\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Abstract\\Rectangle.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Abstract\\Rectangle.cs",
+              "RelativeToolTip": "Abstract\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:12:00.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Abstract\\Circle.cs",
+              "RelativeDocumentMoniker": "Abstract\\Circle.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Abstract\\Circle.cs",
+              "RelativeToolTip": "Abstract\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:10:33.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Abstract\\Shape.cs",
+              "RelativeDocumentMoniker": "Abstract\\Shape.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Abstract\\Shape.cs",
+              "RelativeToolTip": "Abstract\\Shape.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA+wBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:09:46.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:07:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Inheritance\\Manager.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Manager.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Inheritance\\Manager.cs",
+              "RelativeToolTip": "Inheritance\\Manager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:06:38.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Inheritance\\Employee.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Employee.cs",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Inheritance\\Employee.cs",
+              "RelativeToolTip": "Inheritance\\Employee.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:05:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inheritance",
+              "DocumentMoniker": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Inheritance\\Inheritance.csproj",
+              "RelativeDocumentMoniker": "Inheritance\\Inheritance.csproj",
+              "ToolTip": "S:\\University\\Semester_5\\PRN211\\Inheritance\\Inheritance\\Inheritance.csproj",
+              "RelativeToolTip": "Inheritance\\Inheritance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T03:05:31.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

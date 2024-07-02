@@ -1,0 +1,14 @@
+S:\University\Semester_5\PRN211\Inheritance\Default\bin\Debug\net8.0\Default.exe
+S:\University\Semester_5\PRN211\Inheritance\Default\bin\Debug\net8.0\Default.deps.json
+S:\University\Semester_5\PRN211\Inheritance\Default\bin\Debug\net8.0\Default.runtimeconfig.json
+S:\University\Semester_5\PRN211\Inheritance\Default\bin\Debug\net8.0\Default.dll
+S:\University\Semester_5\PRN211\Inheritance\Default\bin\Debug\net8.0\Default.pdb
+S:\University\Semester_5\PRN211\Inheritance\Default\obj\Debug\net8.0\Default.GeneratedMSBuildEditorConfig.editorconfig
+S:\University\Semester_5\PRN211\Inheritance\Default\obj\Debug\net8.0\Default.AssemblyInfoInputs.cache
+S:\University\Semester_5\PRN211\Inheritance\Default\obj\Debug\net8.0\Default.AssemblyInfo.cs
+S:\University\Semester_5\PRN211\Inheritance\Default\obj\Debug\net8.0\Default.csproj.CoreCompileInputs.cache
+S:\University\Semester_5\PRN211\Inheritance\Default\obj\Debug\net8.0\Default.dll
+S:\University\Semester_5\PRN211\Inheritance\Default\obj\Debug\net8.0\refint\Default.dll
+S:\University\Semester_5\PRN211\Inheritance\Default\obj\Debug\net8.0\Default.pdb
+S:\University\Semester_5\PRN211\Inheritance\Default\obj\Debug\net8.0\Default.genruntimeconfig.cache
+S:\University\Semester_5\PRN211\Inheritance\Default\obj\Debug\net8.0\ref\Default.dll
