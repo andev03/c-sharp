@@ -10,3 +10,15 @@ C:\Net1810_212_1_Exchange\Source\Assignment2\Model\obj\Debug\net8.0\Model.dll
 C:\Net1810_212_1_Exchange\Source\Assignment2\Model\obj\Debug\net8.0\refint\Model.dll
 C:\Net1810_212_1_Exchange\Source\Assignment2\Model\obj\Debug\net8.0\Model.pdb
 C:\Net1810_212_1_Exchange\Source\Assignment2\Model\obj\Debug\net8.0\ref\Model.dll
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\bin\Debug\net8.0\Model.deps.json
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\bin\Debug\net8.0\Model.dll
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\bin\Debug\net8.0\Model.pdb
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\obj\Debug\net8.0\Model.csproj.AssemblyReference.cache
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\obj\Debug\net8.0\Model.dll
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\obj\Debug\net8.0\Model.pdb
+C:\Net1810_212_1_Exchange\Source\Net1810_212_ASM2_HE176690_NguyenHoangAn\Model\obj\Debug\net8.0\ref\Model.dll

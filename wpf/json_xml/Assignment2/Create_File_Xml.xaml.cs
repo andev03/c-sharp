@@ -177,14 +177,15 @@ namespace Assignment2 {
             XmlSerializer serializer,
             string xmlFilePath
             ) {
+
             try {
                 using (var writer = new StreamWriter(xmlFilePath)) {
                     serializer.Serialize(writer, result);
                 }
                 System.Windows.MessageBox.Show("Tuần tự hóa thành XML thành công.", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
-                this.Close();
             } catch (Exception ex) {
                 System.Windows.MessageBox.Show($"Lỗi trong quá trình tuần tự hóa: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                throw;
             }
         }
         private void Object_Want_Create_Xml(object sender, SelectionChangedEventArgs e) {

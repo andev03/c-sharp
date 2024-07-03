@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Net1810_212_1_Exchange\\Source\\Assignment2\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Net1810_212_1_Exchange\\Source\\Net1810_212_ASM2_HE176690_NguyenHoangAn\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Net1810_212_1_Exchange\\Source\\Assignment2\\Common\\Common.csproj",
+      "projectPath": "C:\\Net1810_212_1_Exchange\\Source\\Net1810_212_ASM2_HE176690_NguyenHoangAn\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "C:\\Net1810_212_1_Exchange\\Source\\Assignment2\\Common\\obj\\",
+      "outputPath": "C:\\Net1810_212_1_Exchange\\Source\\Net1810_212_ASM2_HE176690_NguyenHoangAn\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

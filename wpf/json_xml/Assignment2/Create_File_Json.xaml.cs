@@ -86,7 +86,7 @@ namespace Assignment2 {
             if (getAll != null) {
                 List<Customer> result = (List<Customer>)getAll.Data;
                 
-                string jsonFilePath = Path.Combine(selectedPath, "orders.json");
+                string jsonFilePath = Path.Combine(selectedPath, "customers.json");
 
                 jsonSerialization(result, jsonFilePath);
 
@@ -192,4 +192,3 @@ namespace Assignment2 {
 
     }
 }
-
