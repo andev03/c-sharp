@@ -1,0 +1,15 @@
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\bin\Debug\net8.0\Service.deps.json
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\bin\Debug\net8.0\Service.dll
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\bin\Debug\net8.0\Service.pdb
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\bin\Debug\net8.0\Repository.dll
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\bin\Debug\net8.0\Repository.pdb
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\Service.dll
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\refint\Service.dll
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\Service.pdb
+S:\on_thi_pe\prn212\PE_PRN212_SU24TrialTest_NguyenHoangAn\Service\obj\Debug\net8.0\ref\Service.dll

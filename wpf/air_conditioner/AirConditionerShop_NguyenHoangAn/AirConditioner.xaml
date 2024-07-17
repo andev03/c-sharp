@@ -1,0 +1,86 @@
+﻿<Window x:Class="AirConditionerShop_NguyenHoangAn.AirConditioner"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AirConditionerShop_NguyenHoangAn"
+        mc:Ignorable="d"
+        Title="AirConditioner" Height="500" Width="800" FontFamily="Arial" FontSize="14" Background="#FFD4F7D4" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DataGrid CanUserAddRows="False" x:Name="dataAir" Margin="10,212,10,10" ItemsSource="{Binding AirConditioner}" ScrollViewer.VerticalScrollBarVisibility="Auto"
+          ScrollViewer.HorizontalScrollBarVisibility="Auto" AutoGenerateColumns="False" SelectionChanged="dataAir_SelectionChanged_1">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Header="AirConditionerId">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding AirConditionerId}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="AirConditionerName">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding AirConditionerName}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Warranty">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Warranty}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="SoundPressureLevel">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding SoundPressureLevel}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="FeatureFunction">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding FeatureFunction}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Quantity">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Quantity}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="DollarPrice">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding DollarPrice}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="SupplierName">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Supplier.SupplierName}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Delete">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Delete" Click="btn_Delete" CommandParameter="{Binding AirConditionerId}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Height="31" Margin="551,123,0,0" VerticalAlignment="Top" Width="98" Click="btnSearch_Click"/>
+
+        <TextBox x:Name="txtFeatureFunction" HorizontalAlignment="Left" Height="23" Margin="108,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" TextAlignment="Right" Foreground="Blue"/>
+        <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" Height="23" Margin="440,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" TextAlignment="Right" Foreground="Blue"/>
+        <Label FontFamily="Arial Narrow" Foreground="Blue" Content="FeatureFunction" HorizontalAlignment="Left" Height="25" Margin="108,33,0,0" VerticalAlignment="Top" Width="209"/>
+        <Label FontFamily="Arial Narrow" Foreground="Blue" Content="Quantiy" HorizontalAlignment="Left" Height="25" Margin="440,33,0,0" VerticalAlignment="Top" Width="209"/>
+
+    </Grid>
+</Window>

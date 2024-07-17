@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\airconditionershop_nguyenhoangan\\airconditioner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|solutionrelative:airconditionershop_nguyenhoangan\\airconditioner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\airconditionershop_nguyenhoangan\\airconditioner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|solutionrelative:airconditionershop_nguyenhoangan\\airconditioner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|s:\\on_thi_pe\\prn212\\pe_prn212_su24trialtest_nguyenhoangan\\airconditionershop_nguyenhoangan\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|solutionrelative:airconditionershop_nguyenhoangan\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|s:\\on_thi_pe\\prn212\\pe_prn212_su24trialtest_nguyenhoangan\\airconditionershop_nguyenhoangan\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|solutionrelative:airconditionershop_nguyenhoangan\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\airconditionershop_nguyenhoangan\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|solutionrelative:airconditionershop_nguyenhoangan\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8555B647-AD68-4D69-83A0-2E14A1314484}|Service\\Service.csproj|s:\\on_thi_pe\\prn212\\pe_prn212_su24trialtest_nguyenhoangan\\service\\staffmemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8555B647-AD68-4D69-83A0-2E14A1314484}|Service\\Service.csproj|solutionrelative:service\\staffmemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8555B647-AD68-4D69-83A0-2E14A1314484}|Service\\Service.csproj|s:\\on_thi_pe\\prn212\\pe_prn212_su24trialtest_nguyenhoangan\\service\\airconditionerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8555B647-AD68-4D69-83A0-2E14A1314484}|Service\\Service.csproj|solutionrelative:service\\airconditionerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3579C2B-A43B-48D8-89BD-62FD3040E466}|Repository\\Repository.csproj|S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\repository\\models\\airconditionershop2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3579C2B-A43B-48D8-89BD-62FD3040E466}|Repository\\Repository.csproj|solutionrelative:repository\\models\\airconditionershop2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3579C2B-A43B-48D8-89BD-62FD3040E466}|Repository\\Repository.csproj|S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\repository\\staffmemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3579C2B-A43B-48D8-89BD-62FD3040E466}|Repository\\Repository.csproj|solutionrelative:repository\\staffmemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3579C2B-A43B-48D8-89BD-62FD3040E466}|Repository\\Repository.csproj|s:\\on_thi_pe\\prn212\\pe_prn212_su24trialtest_nguyenhoangan\\repository\\airconditionerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3579C2B-A43B-48D8-89BD-62FD3040E466}|Repository\\Repository.csproj|solutionrelative:repository\\airconditionerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3579C2B-A43B-48D8-89BD-62FD3040E466}|Repository\\Repository.csproj|S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\repository\\models\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3579C2B-A43B-48D8-89BD-62FD3040E466}|Repository\\Repository.csproj|solutionrelative:repository\\models\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\airconditionershop_nguyenhoangan\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|solutionrelative:airconditionershop_nguyenhoangan\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\airconditionershop_nguyenhoangan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC46E6E9-93CA-44A0-BCF4-36227F236AB4}|AirConditionerShop_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn.csproj|solutionrelative:airconditionershop_nguyenhoangan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 243,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AirConditionerShop_NguyenHoangAn\\App.xaml.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\App.xaml.cs",
+              "RelativeToolTip": "AirConditionerShop_NguyenHoangAn\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:18:01.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AirConditionerShop_NguyenHoangAn\\AssemblyInfo.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\AssemblyInfo.cs",
+              "RelativeToolTip": "AirConditionerShop_NguyenHoangAn\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:18:10.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffMemberService.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Service\\StaffMemberService.cs",
+              "RelativeDocumentMoniker": "Service\\StaffMemberService.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Service\\StaffMemberService.cs",
+              "RelativeToolTip": "Service\\StaffMemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:16:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AirConditionerService.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Service\\AirConditionerService.cs",
+              "RelativeDocumentMoniker": "Service\\AirConditionerService.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Service\\AirConditionerService.cs",
+              "RelativeToolTip": "Service\\AirConditionerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:16:09.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AirConditionerRepository.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Repository\\AirConditionerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AirConditionerRepository.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Repository\\AirConditionerRepository.cs",
+              "RelativeToolTip": "Repository\\AirConditionerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:46:34.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirConditioner.xaml.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\AirConditioner.xaml.cs",
+              "RelativeDocumentMoniker": "AirConditionerShop_NguyenHoangAn\\AirConditioner.xaml.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\AirConditioner.xaml.cs",
+              "RelativeToolTip": "AirConditionerShop_NguyenHoangAn\\AirConditioner.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:14:10.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffMemberRepository.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Repository\\StaffMemberRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StaffMemberRepository.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Repository\\StaffMemberRepository.cs",
+              "RelativeToolTip": "Repository\\StaffMemberRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:40:21.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AirConditionerShop2024DBContext.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Repository\\Models\\AirConditionerShop2024DBContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\AirConditionerShop2024DBContext.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Repository\\Models\\AirConditionerShop2024DBContext.cs",
+              "RelativeToolTip": "Repository\\Models\\AirConditionerShop2024DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:04:09.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "AirConditionerShop_NguyenHoangAn\\Login.xaml.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\Login.xaml.cs",
+              "RelativeToolTip": "AirConditionerShop_NguyenHoangAn\\Login.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:16:23.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirConditioner.xaml",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\AirConditioner.xaml",
+              "RelativeDocumentMoniker": "AirConditionerShop_NguyenHoangAn\\AirConditioner.xaml",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\AirConditioner.xaml",
+              "RelativeToolTip": "AirConditionerShop_NguyenHoangAn\\AirConditioner.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T04:22:19.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\appsettings.json",
+              "RelativeDocumentMoniker": "AirConditionerShop_NguyenHoangAn\\appsettings.json",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\appsettings.json",
+              "RelativeToolTip": "AirConditionerShop_NguyenHoangAn\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T12:56:02.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AirConditioner.cs",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Repository\\Models\\AirConditioner.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\AirConditioner.cs",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\Repository\\Models\\AirConditioner.cs",
+              "RelativeToolTip": "Repository\\Models\\AirConditioner.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:38:00.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\Login.xaml",
+              "RelativeDocumentMoniker": "AirConditionerShop_NguyenHoangAn\\Login.xaml",
+              "ToolTip": "S:\\on_thi_pe\\prn212\\PE_PRN212_SU24TrialTest_NguyenHoangAn\\AirConditionerShop_NguyenHoangAn\\Login.xaml",
+              "RelativeToolTip": "AirConditionerShop_NguyenHoangAn\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T16:19:38.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
