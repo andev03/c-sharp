@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming_Language\\C#\\practice\\console\\thread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1486D7-8D73-4C7C-BADF-B911A9A7FEC5}|Assignment3\\Assignment3.csproj|S:\\Programming_Language\\C#\\practice\\console\\thread\\assignment3\\userwant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1486D7-8D73-4C7C-BADF-B911A9A7FEC5}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\userwant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1486D7-8D73-4C7C-BADF-B911A9A7FEC5}|Assignment3\\Assignment3.csproj|s:\\programming_language\\c#\\practice\\console\\thread\\assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1486D7-8D73-4C7C-BADF-B911A9A7FEC5}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserWant.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\practice\\console\\thread\\Assignment3\\UserWant.cs",
+              "RelativeDocumentMoniker": "Assignment3\\UserWant.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\practice\\console\\thread\\Assignment3\\UserWant.cs",
+              "RelativeToolTip": "Assignment3\\UserWant.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwDwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:51:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\C#\\practice\\console\\thread\\Assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Program.cs",
+              "ToolTip": "S:\\Programming_Language\\C#\\practice\\console\\thread\\Assignment3\\Program.cs",
+              "RelativeToolTip": "Assignment3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:40:09.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
