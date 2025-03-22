@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming_Language\\Study\\C#\\practice\\wpf\\json_xml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{531B7F71-63D2-4385-92FD-EF9C5B55BF45}|Assignment2\\Assignment2.csproj|s:\\programming_language\\study\\c#\\practice\\wpf\\json_xml\\assignment2\\show_xml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531B7F71-63D2-4385-92FD-EF9C5B55BF45}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\show_xml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531B7F71-63D2-4385-92FD-EF9C5B55BF45}|Assignment2\\Assignment2.csproj|s:\\programming_language\\study\\c#\\practice\\wpf\\json_xml\\assignment2\\show_json.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531B7F71-63D2-4385-92FD-EF9C5B55BF45}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\show_json.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Show_Json.xaml.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\Study\\C#\\practice\\wpf\\json_xml\\Assignment2\\Show_Json.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Show_Json.xaml.cs",
+              "ToolTip": "S:\\Programming_Language\\Study\\C#\\practice\\wpf\\json_xml\\Assignment2\\Show_Json.xaml.cs",
+              "RelativeToolTip": "Assignment2\\Show_Json.xaml.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:04:09.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Show_Xml.xaml.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\Study\\C#\\practice\\wpf\\json_xml\\Assignment2\\Show_Xml.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Show_Xml.xaml.cs",
+              "ToolTip": "S:\\Programming_Language\\Study\\C#\\practice\\wpf\\json_xml\\Assignment2\\Show_Xml.xaml.cs",
+              "RelativeToolTip": "Assignment2\\Show_Xml.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:03:03.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\bin\Debug\net8.0\Method.exe
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\bin\Debug\net8.0\Method.deps.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\bin\Debug\net8.0\Method.runtimeconfig.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\bin\Debug\net8.0\Method.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\bin\Debug\net8.0\Method.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\Method.AssemblyInfoInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\Method.AssemblyInfo.cs
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\Method.csproj.CoreCompileInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\Method.sourcelink.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\Method.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\refint\Method.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\Method.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\Method.genruntimeconfig.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Method\Method\obj\Debug\net8.0\ref\Method.dll

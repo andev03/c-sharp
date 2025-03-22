@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming_Language\\Study\\C#\\practice\\dotnet_fundamental\\Method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465BF517-F1A0-4C55-84D4-DDB83C1D3688}|Method\\Method.csproj|s:\\programming_language\\study\\c#\\practice\\dotnet_fundamental\\method\\method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465BF517-F1A0-4C55-84D4-DDB83C1D3688}|Method\\Method.csproj|solutionrelative:method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\Study\\C#\\practice\\dotnet_fundamental\\Method\\Method\\Program.cs",
+              "RelativeDocumentMoniker": "Method\\Program.cs",
+              "ToolTip": "S:\\Programming_Language\\Study\\C#\\practice\\dotnet_fundamental\\Method\\Method\\Program.cs",
+              "RelativeToolTip": "Method\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:20:02.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

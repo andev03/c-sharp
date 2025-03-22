@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming_Language\\Study\\C#\\practice\\dotnet_fundamental\\ExceptionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87864B32-254C-4E25-9296-9D686F0C897B}|ExceptionDemo\\ExceptionDemo.csproj|s:\\programming_language\\study\\c#\\practice\\dotnet_fundamental\\exceptiondemo\\exceptiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87864B32-254C-4E25-9296-9D686F0C897B}|ExceptionDemo\\ExceptionDemo.csproj|solutionrelative:exceptiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\Study\\C#\\practice\\dotnet_fundamental\\ExceptionDemo\\ExceptionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionDemo\\Program.cs",
+              "ToolTip": "S:\\Programming_Language\\Study\\C#\\practice\\dotnet_fundamental\\ExceptionDemo\\ExceptionDemo\\Program.cs",
+              "RelativeToolTip": "ExceptionDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:32:45.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

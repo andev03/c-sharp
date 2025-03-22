@@ -1,0 +1,15 @@
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.exe
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.deps.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.runtimeconfig.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.AssemblyInfoInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.AssemblyInfo.cs
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.csproj.CoreCompileInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.sourcelink.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\refint\ExceptionDemo.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.genruntimeconfig.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ExceptionDemo\ExceptionDemo\obj\Debug\net8.0\ref\ExceptionDemo.dll

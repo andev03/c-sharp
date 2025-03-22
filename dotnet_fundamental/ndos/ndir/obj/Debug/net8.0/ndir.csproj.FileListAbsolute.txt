@@ -1,0 +1,15 @@
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\bin\Debug\net8.0\ndir.exe
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\bin\Debug\net8.0\ndir.deps.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\bin\Debug\net8.0\ndir.runtimeconfig.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\bin\Debug\net8.0\ndir.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\bin\Debug\net8.0\ndir.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\ndir.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\ndir.AssemblyInfoInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\ndir.AssemblyInfo.cs
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\ndir.csproj.CoreCompileInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\ndir.sourcelink.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\ndir.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\refint\ndir.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\ndir.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\ndir.genruntimeconfig.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\ndos\ndir\obj\Debug\net8.0\ref\ndir.dll

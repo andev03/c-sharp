@@ -1,0 +1,15 @@
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\bin\Debug\net8.0\Part3Array.exe
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\bin\Debug\net8.0\Part3Array.deps.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\bin\Debug\net8.0\Part3Array.runtimeconfig.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\bin\Debug\net8.0\Part3Array.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\bin\Debug\net8.0\Part3Array.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\Part3Array.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\Part3Array.AssemblyInfoInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\Part3Array.AssemblyInfo.cs
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\Part3Array.csproj.CoreCompileInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\Part3Array.sourcelink.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\Part3Array.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\refint\Part3Array.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\Part3Array.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\Part3Array.genruntimeconfig.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Part3Array\Part3Array\obj\Debug\net8.0\ref\Part3Array.dll

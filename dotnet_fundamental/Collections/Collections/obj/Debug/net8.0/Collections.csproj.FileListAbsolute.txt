@@ -1,0 +1,16 @@
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\bin\Debug\net8.0\Collections.exe
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\bin\Debug\net8.0\Collections.deps.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\bin\Debug\net8.0\Collections.runtimeconfig.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\bin\Debug\net8.0\Collections.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\bin\Debug\net8.0\Collections.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\Collections.AssemblyInfoInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\Collections.AssemblyInfo.cs
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\Collections.sourcelink.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\Collections.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\refint\Collections.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\Collections.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\Collections.genruntimeconfig.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\obj\Debug\net8.0\ref\Collections.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\Collections\Collections\bin\Debug\net8.0\input.txt

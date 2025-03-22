@@ -1,0 +1,15 @@
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\bin\Debug\net8.0\CTDK.exe
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\bin\Debug\net8.0\CTDK.deps.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\bin\Debug\net8.0\CTDK.runtimeconfig.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\bin\Debug\net8.0\CTDK.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\bin\Debug\net8.0\CTDK.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\CTDK.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\CTDK.AssemblyInfoInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\CTDK.AssemblyInfo.cs
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\CTDK.csproj.CoreCompileInputs.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\CTDK.sourcelink.json
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\CTDK.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\refint\CTDK.dll
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\CTDK.pdb
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\CTDK.genruntimeconfig.cache
+S:\Programming_Language\Study\C#\practice\dotnet_fundamental\CTDK\CTDK\obj\Debug\net8.0\ref\CTDK.dll

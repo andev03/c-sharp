@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Programming_Language\\Study\\C#\\practice\\dotnet_fundamental\\Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820DA1FB-5A4D-4772-8D79-7FFC3F88AA1D}|Collections\\Collections.csproj|s:\\programming_language\\study\\c#\\practice\\dotnet_fundamental\\collections\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820DA1FB-5A4D-4772-8D79-7FFC3F88AA1D}|Collections\\Collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Programming_Language\\Study\\C#\\practice\\dotnet_fundamental\\Collections\\Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Program.cs",
+              "ToolTip": "S:\\Programming_Language\\Study\\C#\\practice\\dotnet_fundamental\\Collections\\Collections\\Program.cs",
+              "RelativeToolTip": "Collections\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:42:14.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
